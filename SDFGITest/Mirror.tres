@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" format=2]
+
+[resource]
+resource_name = "Mirror"
+cull_mode = 2
+vertex_color_use_as_albedo = true
+metallic = 1.0
+roughness = 0.0
